@@ -1,0 +1,10 @@
+<Project>
+	<PropertyGroup>
+		<DredgePath>F:\SteamLibrary\steamapps\common\DREDGE</DredgePath>
+		<OutputPath>$(DredgePath)\Mods\DaSea.MoreDredge</OutputPath>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="DredgeGameLibs" Version="1.1.0" />
+	</ItemGroup>
+</Project>

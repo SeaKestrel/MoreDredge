@@ -1,0 +1,21 @@
+﻿﻿{
+  "Name": "Big Engine",
+  "itemNameKey": "moredredge.bigengine.name",
+  "itemDescriptionKey": "moredredge.bigengine.desc",
+  "itemType": "EQUIPMENT",
+  "itemSubtype": "ENGINE",
+  "sprite": "moredredge.bigengine",
+  "itemColor": {
+    "r": 47,
+    "g": 64,
+    "b": 63,
+    "a": 8
+  },
+  "squishFactor": 1,
+  "dimensions": [
+    "XX",
+    "XXX",
+    "XX"
+  ],
+  "speedBonus": 15,
+}

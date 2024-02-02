@@ -1,0 +1,8 @@
+{
+	"Name": "MoreDredge",
+	"ModGUID": "DaSea.MoreDredge",
+	"Version": "0.0.1",
+	"ModAssembly": "MoreDredge.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "MoreDredge.Loader/Initialize"
+}
